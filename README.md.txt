@@ -23,4 +23,20 @@ A powerful Python GUI tool that analyzes and visualizes financial metrics of Ind
 ---
 
 ## 🖥️ Screenshots
+## 📸 Screenshots
+
+### 🟦 Welcome Screen
+![Welcome Screen](assets/WELCOME.png)
+
+### 🟦 Input Screen
+![Input Screen](assets/INPUT%20SCREEN.png)
+
+### 🟦 Company: Asian Paints
+![Asian Paints Analysis](assets/ASIAN%20PAINTS.png)
+
+### 🟦 Company: Maruti
+![Maruti Analysis](assets/MARUTI.png)
+
+### 🟦 Company: Reliance
+![Reliance Analysis](assets/RELIENCE.png)
 
