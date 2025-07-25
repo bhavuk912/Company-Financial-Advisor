@@ -24,9 +24,3 @@ A powerful Python GUI tool that analyzes and visualizes financial metrics of Ind
 
 ## 🖥️ Screenshots
 
-> Save your GUI screenshots in an `assets/` folder and include them like this:
-
-```markdown
-![Welcome Page](assets/welcome.png)
-![Input Page](assets/input.png)
-![Result Page](assets/results.png)
