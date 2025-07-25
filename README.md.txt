@@ -22,7 +22,6 @@ A powerful Python GUI tool that analyzes and visualizes financial metrics of Ind
 
 ---
 
-## 🖥️ Screenshots
 ## 📸 Screenshots
 
 ### 🟦 Welcome Screen
@@ -39,4 +38,5 @@ A powerful Python GUI tool that analyzes and visualizes financial metrics of Ind
 
 ### 🟦 Company: Reliance
 ![Reliance Analysis](assets/RELIENCE.png)
+
 
